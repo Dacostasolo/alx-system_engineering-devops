@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Atlrs | grep -v ^d | tail -n10
+ls -Atls | grep -v ^d | head -n10 

@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Atls | grep -v ^d | head -n11 
+ls -At | head -n10 
